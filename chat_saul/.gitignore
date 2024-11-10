@@ -1,0 +1,23 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Django-specific
+db.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.~ 
+*.swp
+*.swo
+
+# Environment files
+.env
+
+# Static and Media
+/staticfiles/
+/media/
+
+# IDE and editor files
+.idea/
+.vscode/

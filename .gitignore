@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Keep project-specific .gitignore files
+!hopehub/.gitignore
+!chat_saul/.gitignore
